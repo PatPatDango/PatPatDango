@@ -1,10 +1,6 @@
 <!-- Profile README for Patricia ("PatPatDango") -->
 
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding Patricia" width="340"/>
-</p>
-
 <h1 align="center" style="border-bottom: none;">👋 Hi, I'm Patricia!</h1>
 <h3 align="center">💻 Computer Science Student from Germany 🇩🇪</h3>
 
