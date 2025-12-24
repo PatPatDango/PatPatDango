@@ -55,24 +55,43 @@
 <h2 align="center">🚀 Skills & Tools</h2>
 
 <p align="center">
-  <!-- Programming Languages -->
+  <b>Programming Languages</b><br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="36"/>
+</p>
 
-  <!-- Web / Frontend -->
+<p align="center">
+  <b>Frontend & Web</b><br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36"/>
+</p>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="36"/>
-
-  <!-- Tools & Platforms -->
+<p align="center">
+  <b>Testing, QA & Automation</b><br><br>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="36"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36"/>
+</p>
+
+<p align="center">
+  <b>Medical Informatics & Standards</b><br><br>
+  🏥 <b>FHIR</b> (Fast Healthcare Interoperability Resources)
+</p>
+
+<p align="center">
+  <b>Databases</b><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="36"/>
+</p>
+
+<p align="center">
+  <b>Tools & Platforms</b><br><br>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="36"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="36"/>
 </p>
+
 
 ---
 
